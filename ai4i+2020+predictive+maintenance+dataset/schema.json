@@ -1,0 +1,19 @@
+{	"SampleFileName": "ai4i2020.csv",
+	"NumberofColumns" : 14,
+	"ColName": {
+		"UID" : "int",
+		"Product_ID": "varchar(50)",
+		"Type": "varchar(10)",
+		"Air_temperature": "float",
+		"Process_temperature": "float",
+		"Rotational_speed": "float",
+		"Torque": "float",
+		"Tool_wear": " float",
+		"Machine_failure": "float",
+		"TWF": "float",
+		"HDF": "float",
+		"PWF": "float",
+		"OSF": "float",
+		"RNF": "float"
+	}
+}
